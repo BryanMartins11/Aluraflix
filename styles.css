@@ -23,6 +23,7 @@ header {
 .chamada-texto {
   margin-right: 5%;
 }
+
 h1 {
   font-size: 40px;
 }
@@ -55,5 +56,4 @@ p {
 
 .categoria h2 {
   color: rgb(42, 122, 228);
-
 }
